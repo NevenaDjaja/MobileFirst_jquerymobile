@@ -1,0 +1,10 @@
+p.toys {
+  font-family: "Lucida Grande",Helvetica,sans-serif;
+  font-size:1.2em;
+}
+span {
+  font-weight: bold;
+}
+input {
+  padding: 30% 80%;
+}
