@@ -8,3 +8,30 @@ span {
 input {
   padding: 30% 80%;
 }
+
+/* location.html */
+#button_location {
+	white-space: normal;
+	width: 7em;
+	padding: 0;
+}
+#geoloc {
+	padding: 0;
+	font-size: 0.6em;
+	-moz-box-sizing:border-box;
+	-webkit;box-sizing:border-box;
+	-sizing: border-box;
+}
+#mapcanvas {
+	height: 340px; 
+	width: 280px;
+}
+
+/* contactus.html */
+#social-networks {
+	width: 8em;
+	margin-left: 1em;
+}
+.soc-net {
+	padding: 0.2em;
+}
