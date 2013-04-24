@@ -1,4 +1,5 @@
 MobileFirst_jquerymobile
 ========================
 
-Example of an app using jQueryMobile and data-role attributes
+App example of the use of jQueryMobile and data-role attributes.
+Geolocation and maps API used too. 
